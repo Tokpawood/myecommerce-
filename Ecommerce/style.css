@@ -6,6 +6,16 @@
     left: 0px;
     margin: 0%;
 }
+body{
+    margin: 0%;
+    padding: 0%;
+    top: 0%;
+    background-color: #fafafa;
+}
+main{
+    top: 10px;
+}
+
 .label{
     text-align: center;
     background-color: #453330;
@@ -18,14 +28,56 @@
     font-size: 18px;
     opacity: 75%;
     position: sticky;
+    top
 }
-.logo{
+.ogo{
     display: flex;
-    justify-content: center;
-    padding: 10px;
+    justify-content: right;
+    padding: 1px;
     margin: 15px;
 }
-.recherche{
+#logo{
+    margin-right: 23%;
 
+}
+.recherche {
+    display: flex;
+    justify-content: end;
+    top: 0%;
+    align-items: center;
+    align-content: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    padding-left: 50px;
 
+}
+.search{
+    align-items: flex-end;
+    margin: 15px;
+    padding: 10px;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+        border: solid #161312 1px;
+    background: #161312;
+    color: white;
+    text-decoration: none;
+
+}
+.co{
+    margin: 20px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+section .voiture{
+    re
+}
+.do{
+    position: stroke: ;
 }
